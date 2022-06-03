@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/af0a8e38-bfe1-425b-bbec-2e7414b669bd/microsoft.web/sites/subscriptions/af0a8e38-bfe1-425b-bbec-2e7414b669bd/resourceGroups/sivasaiAzure/providers/Microsoft.Web/sites/StockUI",
+    "appService.deploySubpath": "dist"
+}
